@@ -1,0 +1,7 @@
+react refresher.
+
+routes are different 
+
+44. useHistory superseded by useNavigation
+-useNavigation doesn't use dot notation.
+for example history.replace('/home') = navigation(/Home)
